@@ -27,7 +27,7 @@ body {
 }
 .optionsBox{
   width: 100%;
-  height: 100%;
+  height: 105%;
   background-color: black;
   border-radius: .5rem;
   border: .2rem solid #03a9f4;
@@ -40,6 +40,7 @@ body {
 .options{
 	list-style: none; /* Remove default list bullets */
     padding: 0; /* Remove default padding */
+	margin-top: .2rem;
 }
 
 .options li{
